@@ -1,0 +1,15 @@
+numpy
+pandas
+matplotlib
+tensorflow
+scikit-learn
+librosa
+ipython
+keras
+seaborn
+h5py
+streamlit
+plotly
+pydub
+streamlit-lottie
+soundfile
