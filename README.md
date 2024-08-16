@@ -27,8 +27,8 @@ This project is an interactive Streamlit web application that uses machine learn
 
 1. Clone this repository:
    ```
-   git clone https://github.com/your-username/music-genre-classification.git
-   cd music-genre-classification
+   git clone https://github.com/leokook/CNN-MusicGenre-Classification
+   cd CNN-MusicGenre-Classification
    ```
 
 2. Create a virtual environment (optional but recommended):
